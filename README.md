@@ -1,4 +1,4 @@
-## IMPORTANT NOTICE ABOUT <"DJnner" is damaged and can’t be opened. You should move it to the Trash> Error
+## IMPORTANT NOTICE ABOUT '"DJnner" is damaged and can’t be opened. You should move it to the Trash' Error on Mac
 
 To solve this, open a console and type: xattr -cr <path/to/application.app>
 
