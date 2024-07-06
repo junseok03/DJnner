@@ -10,4 +10,4 @@ I also added a memo space on the screen for the users.
 ## !!!!!!!!! IMPORTANT NOTICE  !!!!!!!!!
 "DJnner" is damaged and can’t be opened. You should move it to the Trash' Error on Mac
 
-To solve this, open a console and type: xattr -cr <path/to/application.app>
+To solve this: open a console and type: xattr -cr <path/to/application.app>
