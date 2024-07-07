@@ -37,7 +37,19 @@ below the waveform display. It does not matter whether the music is playing or n
 
 <img width="864" alt="Screenshot 2024-07-07 at 7 24 12 PM" src="https://github.com/junseok03/DJnner/assets/151435171/4056c596-f734-449c-af8d-753272a76f40">
 
+We can see that there is a ‘loop’ button on each deck. No matter whether the music is playing or not, if the user presses the ‘loop’ button, the music will restart playing the music.
 
+<img width="662" alt="Screenshot 2024-07-07 at 7 25 19 PM" src="https://github.com/junseok03/DJnner/assets/151435171/eb34ff98-86f2-49c4-a177-4950828aaf67">
+
+### Adjusting volumes 
+There are two knobs located below the buttons of each deck. The knob on the left has the functionality to adjust the volume of the loaded music file. The users can easily increase or decrease the volume with this knob ranging from 0 to 1. The default value is set to 0.5.
+
+<img width="741" alt="Screenshot 2024-07-07 at 7 29 17 PM" src="https://github.com/junseok03/DJnner/assets/151435171/5b9522a6-0986-4e80-be77-4cb7b65925e2">
+
+### Adjusting the speed
+The knob on the right has the functionality to adjust the speed of the loaded music file. The users can easily increase or decrease the speed with this knob ranging from 0 to 10. The default value is set to 1.0.
+
+<img width="711" alt="Screenshot 2024-07-07 at 7 30 52 PM" src="https://github.com/junseok03/DJnner/assets/151435171/6cf047ec-b99f-4c72-a0ce-74f53e4499ec">
 
 ## <i> !!!!!!!!! IMPORTANT NOTICE  !!!!!!!!!
 "DJnner is damaged and can’t be opened. You should move it to the Trash" Error on Mac
