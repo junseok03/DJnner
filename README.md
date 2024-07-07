@@ -51,6 +51,12 @@ The knob on the right has the functionality to adjust the speed of the loaded mu
 
 <img width="711" alt="Screenshot 2024-07-07 at 7 30 52 PM" src="https://github.com/junseok03/DJnner/assets/151435171/6cf047ec-b99f-4c72-a0ce-74f53e4499ec">
 
+### Memo space
+DJ producers have to handle multiple tracks at the same time, which can be very complex. Each track has different tempos and speeds, which could possibly confuse DJ producers. The memo space at the bottom of each deck can help the users.
+
+<img width="960" alt="Screenshot 2024-07-07 at 9 18 38 PM" src="https://github.com/junseok03/DJnner/assets/151435171/7767ddd7-17c5-445f-ab99-f9766529c023">
+
+
 ## <i> !!!!!!!!! IMPORTANT NOTICE  !!!!!!!!!
 "DJnner is damaged and can’t be opened. You should move it to the Trash" Error on Mac
 
