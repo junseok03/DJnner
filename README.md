@@ -1,4 +1,4 @@
-# DJnner - For MacOS Users
+# DJnner - For MacOS Users (download .dmg & .app file)
 
 DJnner is a JUCE framework(c++) based DJ application designed for new beginners. <br>
 DJnner allows users to modify the speed and volume as the music plays. <br>
